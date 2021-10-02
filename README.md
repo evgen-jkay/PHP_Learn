@@ -1,4 +1,4 @@
-# String To Binary and Binary To String
+# Converting string to binary and binary to string
 
 In this example we are going to convert string to binary and binary to string with PHP.
 
