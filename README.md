@@ -1,8 +1,12 @@
-# Converting string to binary and binary to string
+# Useful code PHP
 
-In this example we are going to convert string to binary and binary to string with PHP.
+#### 1. Converting string to binary and binary to string
 
-### Test ⚙️
+File: `convertStrToBin.php`
+
+> In this example we are going to convert string to binary and binary to string with PHP.
+
+##### Test ⚙️
 
 ```php
 $string = 'evgen-jkay';
