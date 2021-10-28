@@ -1,4 +1,4 @@
-# Useful code PHP
+# PHP Learn
 
 #### 1. Converting string to binary and binary to string
 
